@@ -19,6 +19,7 @@
     "@types/express": "^4.17.17",
     "@types/node": "^20.2.1",
     "eslint": "^8.40.0",
+    "prisma": "^4.14.1",
     "tsx": "^3.12.7",
     "typescript": "^5.0.4"
   }
